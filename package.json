@@ -1,0 +1,15 @@
+{
+  "name": "5e-database",
+  "version": "1.0.0",
+  "description": "Holds the database for the D&D 5th Edition API at http://dnd5eapi.co/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edorsey/5e-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edorsey/5e-database/issues"
+  },
+  "homepage": "https://github.com/edorsey/5e-database#readme"
+}
